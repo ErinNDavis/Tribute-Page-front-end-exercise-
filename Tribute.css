@@ -31,8 +31,10 @@ body{
 }
 
 #accomplishments{
-   
    padding: 20px; 
+}
+#accomplishments h2{
+    text-decoration: underline;
 }
 
 ul{
@@ -44,6 +46,17 @@ ul{
 
 ul li{
     margin: 16px 0;
+}
+
+#bio{
+    background: white;
+    text-align: justify;
+    padding: 0px 20px 0px 20px;
+}
+
+#bio h2{
+    text-align: center;
+    text-decoration: underline;
 }
 
 
